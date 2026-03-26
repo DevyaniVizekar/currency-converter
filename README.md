@@ -33,13 +33,6 @@ While building this project, I learned:
 
 ---
 
- About Me
-
-I'm Devyani 
-I'm currently learning full stack development and building projects to improve my skills and grow in tech.
-
----
-
 Note
 
 This is one of my beginner projects, and I'm continuously improving and learning with every project I build.
