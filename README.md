@@ -1,11 +1,11 @@
-Currency Converter
+## Currency Converter
 
 A simple and clean currency converter built using HTML, CSS, and JavaScript.  
 This project helped me understand how APIs, DOM manipulation, and real-time data work together.
 
 ---
 
- Features
+## Features
 
 - Convert currencies in real-time  
 - Easy-to-use and minimal UI  
@@ -14,7 +14,7 @@ This project helped me understand how APIs, DOM manipulation, and real-time data
 
 ---
 
- Tech Stack
+## Tech Stack
 
 - HTML  
 - CSS  
@@ -22,7 +22,7 @@ This project helped me understand how APIs, DOM manipulation, and real-time data
 
 ---
 
- What I Learned
+## What I Learned
 
 While building this project, I learned:
 
@@ -33,6 +33,6 @@ While building this project, I learned:
 
 ---
 
-Note
+## Note
 
 This is one of my beginner projects, and I'm continuously improving and learning with every project I build.
