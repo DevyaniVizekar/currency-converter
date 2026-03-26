@@ -36,3 +36,10 @@ While building this project, I learned:
 ## Note
 
 This is one of my beginner projects, and I'm continuously improving and learning with every project I build.
+
+---
+
+## Author 
+
+Devyani Vizekar
+
